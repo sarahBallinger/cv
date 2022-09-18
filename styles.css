@@ -1,0 +1,119 @@
+a {
+  color: #11999E;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: #CEE5D0;
+}
+
+footer {
+background-color: #F7F6DC;
+justify-content: center;
+padding: 80px;
+}
+
+hr{
+  color: #EAF6F6;
+  border-style: dotted;
+  border-width: .5em 0 0 0;
+  width: 8%;
+  margin: 50px auto 50px auto;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto -20px auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+/******************************************/
+.bottom-cloud {
+  position: absolute;
+}
+
+.contact-me{
+  line-height: 40px;
+  width: 40%;
+  padding: 50px;
+  margin: auto;
+}
+
+  .btn {
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 20px;
+    background: #68945c;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #A1C298;
+    text-decoration: none;
+    color: black;
+  }
+
+.design {
+  text-decoration: underline;
+}
+
+.design-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link{
+  margin: 25px;
+}
+
+.hello-intro{
+  margin: auto;
+}
+
+.profile-pic {
+  width: 250px;
+  clip-path: circle(124px);
+}
+
+.round-table {
+  width: 25%;
+  float: right;
+  margin-left: 30px
+}
+
+.Sarah-Elizabeth-Ballinger{
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
