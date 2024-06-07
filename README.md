@@ -1,4 +1,4 @@
-# John Doe's Personal Website
+# Sarah's Personal Website
 
 Welcome to my personal website! This repository contains the code for my portfolio site, where I showcase my skills as a full-stack developer. My aim is to design unique, custom websites that not only highlight my technical capabilities but also tell a story through design.
 
